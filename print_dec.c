@@ -3,7 +3,7 @@
 * print_dec - function that prints an decimal
 * @d: integer to print
 * Descriptions: prints digit with _putchar
-* Return: size the output text
+* Return: size the output txt
 */
 int print_dec(va_list d)
 {
