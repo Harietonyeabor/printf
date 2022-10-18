@@ -5,7 +5,7 @@
  * print_string - writes the character c to stdout
  * @s: The string to print
  *
- * Return: 1.
+ * Return: 1
  */
 int print_string(va_list s)
 {
